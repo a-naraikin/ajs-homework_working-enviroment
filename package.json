@@ -4,7 +4,7 @@
   "description": "\"\"\u001b[DBrowser based game\"",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "babel src -d dist"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,13 @@
   "bugs": {
     "url": "https://github.com/a-naraikin/ajs-homework_working-enviroment/issues"
   },
-  "homepage": "https://github.com/a-naraikin/ajs-homework_working-enviroment#readme"
+  "homepage": "https://github.com/a-naraikin/ajs-homework_working-enviroment#readme",
+  "devDependencies": {
+    "@babel/cli": "7.14.8",
+    "@babel/core": "7.14.8",
+    "@babel/preset-env": "7.14.9"
+  },
+  "dependencies": {
+    "core-js": "3.16.0"
+  }
 }
