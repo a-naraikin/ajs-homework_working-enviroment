@@ -1,0 +1,22 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "\"\"\u001b[DBrowser based game\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-naraikin/ajs-homework_working-enviroment.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "a-naraikin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a-naraikin/ajs-homework_working-enviroment/issues"
+  },
+  "homepage": "https://github.com/a-naraikin/ajs-homework_working-enviroment#readme"
+}
