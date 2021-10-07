@@ -1,2 +1,2 @@
-## Домашняя работа «Рабочее окружение» к курсу «Продвинутый Javascript»
+## Домашняя работа «Рабочее окружение»
 netology_ajs-homeworks_working-enviroment
