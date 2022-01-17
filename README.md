@@ -1,2 +1,2 @@
 ## Домашняя работа «Рабочее окружение»
-netology_ajs-homeworks_working-enviroment
+n_ajs-hw.-1_working-enviroment
